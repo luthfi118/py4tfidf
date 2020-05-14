@@ -1,6 +1,6 @@
 # py4tfidf
 
-Term Frequency–Inverse Document Frequency (TF-IDF) Python Library
+Term Frequency – Inverse Document Frequency (TF-IDF) Python Library
 
 ## Getting Started
 

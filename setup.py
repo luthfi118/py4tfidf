@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="py4tfidf",
-    version="0.0.1",
+    version="0.0.2",
     author="Mgs. M. Luthfi Ramadhan",
     author_email="luthfir96@gmail.com",
-    description="Pseudo Nearest Neighbors Python Library",
+    description="Term Frequency – Inverse Document Frequency (TF-IDF) Python Library",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/luthfi118/py4tfidf",
