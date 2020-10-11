@@ -38,9 +38,3 @@ class Tfidf:
     def vectorize_test(self,x):
         tf=self.__get_tf(x,self.__dictionary)
         return tf*self.__idf
-vec = Tfidf()
-x_train = [['i','love', 'python'],['natrual','language','processing','is','fun'],['python','is','fun']]
-x_test = [['python','language','is','fun'],['im','learning','natrual','language','processing']]
-x_train = vec.vectorize_train(x_train)
-x_test = vec.vectorize_test(x_test)
-print(x_train)

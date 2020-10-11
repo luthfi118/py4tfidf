@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="py4tfidf",
-    version="0.0.3",
+    version="0.0.4",
     author="Mgs. M. Luthfi Ramadhan",
     author_email="luthfir96@gmail.com",
     description="Term Frequency – Inverse Document Frequency (TF-IDF) Python Library",
